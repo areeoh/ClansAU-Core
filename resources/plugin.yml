@@ -1,0 +1,8 @@
+name: ClansAU-Core
+main: com.areeoh.ClansAUCore
+version: 1.0
+author: ClansAU Team
+depend: []
+commands:
+  module:
+  client:
